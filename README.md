@@ -14,3 +14,6 @@ Technologies Used:
 HTML: Used for the structure and content of the website.
 
 CSS: Used for styling the website, including layout, typography, colors, and animations.
+
+Deployment Link: https://ananya272.github.io/Jovac-Portfolio/
+
